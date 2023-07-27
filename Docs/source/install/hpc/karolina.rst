@@ -17,7 +17,7 @@ If you are new to this system, **please see the following resources**:
 * `Filesystems <https://docs.it4i.cz/karolina/storage/>`__:
 
   * ``$HOME``: per-user directory, use only for inputs, source and scripts; backed up (25GB default quota)
-  * ``/scatch/``: `production directory <https://docs.it4i.cz/karolina/storage/#scratch-file-system>`__; very fast for parallel jobs (20TB default)
+  * ``/scratch/``: `production directory <https://docs.it4i.cz/karolina/storage/#scratch-file-system>`__; very fast for parallel jobs (20TB default)
 
 
 .. _building-karolina-preparation:
